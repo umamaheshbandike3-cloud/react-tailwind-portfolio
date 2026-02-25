@@ -114,7 +114,7 @@ export const Hero = () => {
               />
               <div className="relative glass rounded-3xl p-2 glow-border">
                 <img
-                  src="/profileee.jpg"
+                  src="/profilee.jpg"
                   alt="BANDIKE MAHESH"
                   className="w-full aspect-[3/5] object-cover rounded-2xl"
                 />
