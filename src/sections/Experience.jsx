@@ -1,6 +1,6 @@
 const experiences = [
   {
-    period: "2022 — 2025",
+    period: "2025-Present",
     role: "Data Scientist Intern",
     company: "Rubix",
     description:
@@ -18,7 +18,7 @@ const experiences = [
     current: false,
   },
   {
-    period: "2024",
+    period: "2026",
     role: "Certified Data Scientist",
     company: "IABAC & NASSCOM",
     description:
